@@ -1,2 +1,2 @@
 #!/bin/bash
-{ head -n 3 iacta > temp_file tail -n 1 temp_file rm temp_file }
+tail -n +3 iacta 
