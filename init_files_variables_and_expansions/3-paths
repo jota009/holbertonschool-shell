@@ -1,2 +1,2 @@
 #!/bin/bash 
-PATH=$PATH -c: 
+echo (printf $PATH | tr":" "ln" | wc -w) 
