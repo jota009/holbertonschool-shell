@@ -1,2 +1,2 @@
 #!/bin/bash 
-printenvBEST=School
+printenv BEST="School"
